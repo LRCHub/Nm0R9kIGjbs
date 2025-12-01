@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "┗|∵|┓金曜日のおはよう／HoneyWorks feat.Gero",
+  "base_artist": "NBCUniversal Anime/Music",
+  "createdAt": "2025-12-01T16:37:05.884237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "金曜日のおはよう",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/01_金曜日のおはよう_96猫.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "金曜日のおはよう",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/02_金曜日のおはよう_Gero.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "金曜日のおはよう -another story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_金曜日のおはよう_-another_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "金曜日のおはよう -another story- feat.成海聖奈(CV：雨宮天)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_金曜日のおはよう_-another_story-_feat.成海聖奈(CV_雨宮天)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "金曜日のおはよう -love story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_金曜日のおはよう_-love_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "金曜日のおはよう ‐love story‐",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_金曜日のおはよう_‐love_story‐_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "金曜日のおはよう",
+      "artist": "Kuroneko",
+      "has_synced": false,
+      "path": "select/07_金曜日のおはよう_Kuroneko.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "金曜日のおはよう-another story-",
+      "artist": "Hanon",
+      "has_synced": true,
+      "path": "select/08_金曜日のおはよう-another_story-_Hanon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "金曜日のおはよう",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/09_金曜日のおはよう_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "金曜日のおはよう -love story- feat.Gero",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_金曜日のおはよう_-love_story-_feat.Gero_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "金曜日のおはよう -another story- (feat. 成海聖奈 (CV:雨宮天))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_金曜日のおはよう_-another_story-_(feat._成海聖奈_(CV_雨宮天))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "金曜日のおはよう -another story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_金曜日のおはよう_-another_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "金曜日のおはよう –another story–",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/13_金曜日のおはよう_–another_story–_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "┗_∵_┓金曜日のおはよう",
+      "artist": "HoneyWorks feat. Gero",
+      "has_synced": false,
+      "path": "select/pl_01_┗_∵_┓金曜日のおはよう_HoneyWorks_feat._Gero.txt"
+    }
+  ]
+}
